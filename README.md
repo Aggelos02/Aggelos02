@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Angelos Bllokou
+# 👋 Hi, I'm Angelos
 
 I'm a Computer Science graduate from the University of Ioannina with a passion for software development, Artificial Intelligence, and modern technologies. I enjoy building web and mobile applications and continuously learning new technologies.
 
