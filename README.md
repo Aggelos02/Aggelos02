@@ -4,16 +4,16 @@ I'm a Computer Science graduate from the University of Ioannina with a passion f
 
 ---
 
-## 🚀 What am I currently working on?
+## What am I currently working on?
 
-- 📱 Building cross-platform mobile applications with Flutter
-- 🌐 Developing full-stack web applications using React, Node.js, and SQL databases
-- 🤖 Integrating AI tools into software development workflows
-- 💡 Expanding my knowledge in software engineering, cloud technologies, and modern development practices
+-  Building cross-platform mobile applications with Flutter
+-  Developing full-stack web applications using React, Node.js, and SQL databases
+-  Integrating AI tools into software development workflows
+-  Expanding my knowledge in software engineering, cloud technologies, and modern development practices
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 ### Programming Languages
 - Python
@@ -40,21 +40,21 @@ I'm a Computer Science graduate from the University of Ioannina with a passion f
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
-- 📱 Flutter application with CRUD functionality and Hive local database
-- 🌐 Program & Goal Tracker built with React, Node.js, SQLite, REST API, and gamification (XP System)
-- 🌡️ Smart Agriculture IoT system using ESP32, DHT11 sensors, and Thinger.io
-- 🔐 Academic research on SSL/TLS, IPsec, Blockchain Security, and Bioinformatics
+-  Flutter application with CRUD functionality and Hive local database
+-  Program & Goal Tracker built with React, Node.js, SQLite, REST API, and gamification (XP System)
+-  Smart Agriculture IoT system using ESP32, DHT11 sensors, and Thinger.io
+-  Academic research on SSL/TLS, IPsec, Blockchain Security, and Bioinformatics
 
 ---
 
 ### About Me
 
-- 🎓 Computer Science Graduate
-- 💻 Passionate about Full-Stack & Mobile Development
-- 🤖 Interested in Artificial Intelligence 
-- 🚀 Always learning and building new projects
+-  Computer Science Graduate
+-  Passionate about Full-Stack & Mobile Development
+-  Interested in Artificial Intelligence 
+- Always learning and building new projects
 
 ---
 
