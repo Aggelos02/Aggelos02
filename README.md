@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Angelos
+# 👋 Hi, I'm Aggelos
 
 I'm a Computer Science graduate from the University of Ioannina with a passion for software development, Artificial Intelligence, and modern technologies. I enjoy building web and mobile applications and continuously learning new technologies.
 
