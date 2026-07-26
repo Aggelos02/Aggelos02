@@ -19,9 +19,9 @@ I'm a Computer Science graduate from the University of Ioannina with a passion f
 - Python
 - C
 - C++
+- Django
 - SQL
 - HTML
-- Dart
 
 ### Frameworks & Technologies
 - Flutter
@@ -36,6 +36,7 @@ I'm a Computer Science graduate from the University of Ioannina with a passion f
 - ChatGPT
 - GitHub Copilot
 - Git & GitHub
+- Claude
 - Visual Studio Code
 
 ---
