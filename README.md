@@ -7,7 +7,7 @@ I'm a Computer Science graduate from the University of Ioannina with a passion f
 ## What am I currently working on?
 
 -  Building cross-platform mobile applications with Flutter
--  Developing full-stack web applications using DJANGO, HTML, CSS, JAVASCRIPT and SQL databases
+-  Developing full-stack web applications using Next.js, React, TypeScript, Tailwind CSS, Django REST Framework, and SQL databases.
 -  Integrating AI tools into software development workflows
 -  Expanding my knowledge in software engineering, cloud technologies, and modern development practices
 
